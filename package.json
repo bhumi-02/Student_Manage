@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nestjs/cli": "^9.1.8",
+    "@nestjs/jwt": "^10.0.1",
+    "@nestjs/passport": "^9.0.0",
+    "@types/bcrypt": "^5.0.0",
+    "@types/passport": "^1.0.11",
+    "bcrypt": "^5.1.0",
+    "class-validator": "^0.14.0"
+  }
+}
